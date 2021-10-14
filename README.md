@@ -63,7 +63,7 @@ Here are some techs that I'm studying and using:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gbcarvalho&show_icons=true&hide_border=true&theme=nord" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcarvalho&layout=compact&langs_count=7&theme=nord"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcarvalho&layout=compact&langs_count=7&theme=nord"/>
 </p>
 
 ---
