@@ -31,7 +31,9 @@ Feel free to get in touch:
 
 Here are some techs that I'm studying and using:
 
-### 🧑🏻‍💻 Languages
+<details>
+	<summary><b>🧑🏻‍💻 Languages :</b></summary>
+	</br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,8 +41,11 @@ Here are some techs that I'm studying and using:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+</details>
 
-### 💻 Libraries & Frameworks :
+<details>
+	<summary><b>💻 Libraries & Frameworks :</b></summary>
+	</br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -48,8 +53,12 @@ Here are some techs that I'm studying and using:
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-E6FFFA?&style=for-the-badge&logo=chakraui)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+</details>
 
-### 🔧 Some Tools :
+<details>
+	<summary><b>🔧 Some Tools :</b></summary>
+	</br>
+	
 ![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -59,16 +68,30 @@ Here are some techs that I'm studying and using:
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-007ACC?style=for-the-badge&logo=yarn&logoColor=white)
 
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gbcarvalho&show_icons=true&hide_border=true&theme=nord" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gbcarvalho&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)" />
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcarvalho&layout=compact&&hide_border=true&langs_count=5&theme=nord"/> -->
-</p>
+</details>
 
 ---
 
+## 📈 Stats
+<details>
+	<summary><b>My contributions</b></summary>
+	</br>
 <p align="center">
-   <img src="https://github.com/GBcarvalho/GBcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gbcarvalho&show_icons=true&hide_border=true&theme=nord" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gbcarvalho&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcarvalho&layout=compact&&hide_border=true&langs_count=5&theme=nord"/>
 </p>
+	
+---
+
+<p align="center">
+	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=gbcarvalho&hide_border=true&theme=nord" alt="graph">
+</p>
+	
+---
+
+<p align="center">
+	<img align="center" src="https://github.com/GBcarvalho/GBcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
