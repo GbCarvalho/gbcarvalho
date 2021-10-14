@@ -63,16 +63,9 @@ Here are some techs that I'm studying and using:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gbcarvalho&show_icons=true&hide_border=true&theme=nord" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcarvalho&layout=compact&langs_count=7&theme=nord"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gbcarvalho&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcarvalho&layout=compact&&hide_border=true&langs_count=5&theme=nord"/> -->
 </p>
-
----
-
-[![Gabriel's github activity graph](https://activity-graph.herokuapp.com/graph?username=GBcarvalho&hide_border=true&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center">
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gbcarvalho&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)" />
-</p>
-
 
 ---
 
