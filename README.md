@@ -2,7 +2,7 @@
 
 <h3 align="center"><samp>&gt; Hi there, I'm Gabriel Carvalho <img src="/public/waving.gif" height="30px" alt="Hi there" /></samp></h3>
 
-<p align="center"> <samp>「 I'm a 21 years old fullstack developer exploring the possibilities of front-end development. 」</samp> </p>
+<p align="center"> <samp>「 I'm a 21 years old fullstack developer getting deeper into front-end development. 」</samp> </p>
 
 <h4><samp>&gt; Some cool facts</samp></h4>
 
