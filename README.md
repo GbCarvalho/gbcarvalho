@@ -89,8 +89,44 @@ I'm always open for new experiences and looking foward to open source contributi
 	
 ---
 
+<h4 align="center"><samp>「 I had some fun doing this with git workflow, so I decided to leave it here 」</samp></h4>
+
 <p align="center">
 	<img align="center" src="https://github.com/GBcarvalho/GBcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+</details>
+
 ---
+
+<h3 align="center"><samp> 🙋 Want some suggestions? </samp></h3>
+
+<h4 align="center"><samp>「 These are some repos more documented and that I'm a bit more proud of 」</samp></h4>
+
+<p align="center">
+<a href="https://github.com/GbCarvalho/ignews">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gbcarvalho&repo=ignews&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+
+<a href="https://github.com/GbCarvalho/spacetraveling">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gbcarvalho&repo=spacetraveling&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/GbCarvalho/problemongs">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gbcarvalho&repo=problemongs&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/GbCarvalho/DashIg">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gbcarvalho&repo=DashIg&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+---
+
+<h3 align="center"><samp> 👓 Some credits </samp></h3>
+
+<h4 align="center"><samp>「 I have to leave some credits to the awesome people in which I based my README 」</samp></h4>
+
+[Shahriar Shafin](https://github.com/shahriarshafin/shahriarshafin/blob/main/README.md) || [Bruno Tacca](https://github.com/brunotacca/brunotacca) || [Abhishek Naidu for this readme and yours readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-)
