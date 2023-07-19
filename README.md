@@ -112,19 +112,11 @@ I'm always open for new experiences and looking foward to open source contributi
 		<img width="48%" height="195" src="https://github-readme-stats.vercel.app/api?username=gbcarvalho&show_icons=true&hide_border=true&theme=nord" />
 		<img width="48%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbcarvalho&layout=compact&&hide_border=true&langs_count=5&theme=nord"/>
 	</p>
-	
 	<p align="center">
 		<img align="center" src="https://activity-graph.herokuapp.com/graph?username=gbcarvalho&hide_border=true&theme=nord" alt="graph">
 	</p>
+	<h4 align="center"><samp>「 I had some fun doing this with git workflow, so I decided to leave it here 」</samp></h4>
+	<p align="center">
+		<img align="center" src="https://github.com/GBcarvalho/GBcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake">
+	</p>
  </details>
-
----
-
-
-<h4 align="center"><samp>「 I had some fun doing this with git workflow, so I decided to leave it here 」</samp></h4>
-
-<p align="center">
-	<img align="center" src="https://github.com/GBcarvalho/GBcarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-</details>
