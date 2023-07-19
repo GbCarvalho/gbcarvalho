@@ -7,7 +7,7 @@
 <h4><samp>&gt; Some cool facts</samp></h4>
 
 - 🔭 I’m currently working at [Prevision](https://www.prevision.com.br/)
-- 🌱 I’m currently learning <a href="https://rubyonrails.org/"><img src="/public/rails.png" height="20px" alt="Ruby on Rails" /></a> Ruby on Rails and <a href="https://vuejs.org/"><img src="/public/vuejs.png" height="20px" alt="Vue JS" /></a> Vue JS
+- 🌱 I’m currently developing using <a href="https://rubyonrails.org/"><img src="/public/rails.png" height="20px" alt="Ruby on Rails" /></a> Ruby on Rails and <a href="https://vuejs.org/"> <img src="/public/vuejs.png" height="20px" alt="Vue JS" /></a> Vue JS
 
 I'm always open for new experiences and looking foward to open source contribution, if you want my help at anyways just get in touch and I will do my best to help you!
 
