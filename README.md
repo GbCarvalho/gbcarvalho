@@ -4,13 +4,6 @@
 
 <p align="center"> <samp>「 I'm fullstack developer 」</samp> </p>
 
-<h4><samp>&gt; Some cool facts</samp></h4>
-
-- 🔭 I’m currently working at [Prevision](https://www.prevision.com.br/)
-- 🌱 I’m currently developing using <a href="https://rubyonrails.org/"><img src="/public/rails.png" height="20px" alt="Ruby on Rails" /></a> Ruby on Rails and <a href="https://vuejs.org/"> <img src="/public/vuejs.png" height="20px" alt="Vue JS" /></a> Vue JS
-
-I'm always open for new experiences and looking foward to open source contribution, if you want my help at anyways just get in touch and I will do my best to help you!
-
 <b><samp>&gt; Feel free to get in touch: </samp></b>
 <p>
 <a href="https://www.linkedin.com/in/gcb/">
@@ -39,18 +32,16 @@ I'm always open for new experiences and looking foward to open source contributi
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ffDE57?style=for-the-badge&logo=python&logoColor=4584b6)
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust)
 </details>
 
 <details>
 	<summary><b>💻 Libraries & Frameworks :</b></summary>
 	</br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495e?&style=for-the-badge&logo=vue.js)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-E6FFFA?&style=for-the-badge&logo=chakraui)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 </details>
 
@@ -61,11 +52,6 @@ I'm always open for new experiences and looking foward to open source contributi
 ![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-007ACC?style=for-the-badge&logo=yarn&logoColor=white)
 
 </details>
 
